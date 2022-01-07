@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Arnaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnaudLosson&theme=radical_icons=true)
+![Arnaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnaudLosson&theme=radical&shows_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudLosson&layout=compact)](https://github.com/ArnaudLosson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudLosson&layout=compact&theme=radical)](https://github.com/ArnaudLosson/github-readme-stats)
 <!--
 **ArnaudLosson/ArnaudLosson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
